@@ -1,5 +1,3 @@
-# errors when averaging
-
 #!/usr/bin/python 
 
 import sys
